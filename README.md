@@ -1,2 +1,2 @@
 # Mystery
-Public repository for test purposes
+Public repository for test purposes.
